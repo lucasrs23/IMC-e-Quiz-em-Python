@@ -16,3 +16,16 @@ Funcionalidades:
 - Cálculo automático
 - Classificação (baixo peso, normal, sobrepeso, obesidade)
 - Execução no terminal
+- 
+# 🐍 Projetos Python Iniciais
+
+## 📌 Projetos
+- Calculadora de IMC
+- Quiz interativo no terminal
+
+## 🚀 Como rodar
+python imc/main.py
+python quiz/main.py
+
+## 🛠 Tecnologias
+- Python 3
